@@ -25,7 +25,7 @@
  |1|D0|3|
  |2|D4|4|
  |3|C6|5|
- |4|F7|A0|
+ |4*|F7|A0|
  
  *Used only for rotary encoder switch.
  
