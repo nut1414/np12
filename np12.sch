@@ -309,8 +309,6 @@ F 3 "" V 9050 350 60  0001 C CNN
 	1    8000 2850
 	1    0    0    -1  
 $EndComp
-Text Label 8700 3400 0    50   ~ 0
-row4
 $Comp
 L Device:Rotary_Encoder_Switch SW2
 U 1 1 601EFADF
@@ -411,8 +409,6 @@ Text Label 7300 3200 2    50   ~ 0
 row1
 Text Label 7300 3300 2    50   ~ 0
 row2
-Text Label 7300 3400 2    50   ~ 0
-row3
 Text Label 7300 3100 2    50   ~ 0
 row0
 Text Label 7300 2800 2    50   ~ 0
