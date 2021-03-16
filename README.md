@@ -19,7 +19,7 @@
  |2|B4|8|
  |3*|F6|A1|
 
- |Row|Pin|Arduino Wire Pin|
+ |Col|Pin|Arduino Wire Pin|
  |:--:|:--:|:--:|
  |0|D1|2|
  |1|D0|3|
