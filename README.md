@@ -29,3 +29,10 @@
  
  *Used only for rotary encoder switch.
  
+ |Pin|Arduino Wire Pin||
+ |:--:|:--:|:--:|
+ |PF5,PF4|A2,A3|Used for encoder|
+ |PD2|RX1|Used for handling serial on TRRS audio jack|
+ 
+ 
+ 
