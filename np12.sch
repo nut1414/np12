@@ -347,7 +347,7 @@ Wire Wire Line
 	9050 3525 9575 3525
 Wire Wire Line
 	9575 3525 9575 3425
-Text Label 8650 900  2    50   ~ 0
+Text Label 8650 800  2    50   ~ 0
 data
 Text Label 7300 2400 2    50   ~ 0
 data
